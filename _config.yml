@@ -4,14 +4,13 @@
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
-
 remote_theme             : "mmistakes/minimal-mistakes@4.24.0"
 
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-
+github: [metadata]
 # Site Settings
 locale                   : "en-US"
-title                    : "CÔNG PHÁ NMLT"
+title                    : "Công phá NMLT"
 title_separator          : "-"
 subtitle                 : ""
 name                     : &name "Michael Rose" # &name is a YAML anchor which can be *referenced later
@@ -328,3 +327,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+  
