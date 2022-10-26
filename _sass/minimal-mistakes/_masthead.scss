@@ -1,7 +1,7 @@
 /* ==========================================================================
    MASTHEAD
    ========================================================================== */
-   @import url('http://fonts.cdnfonts.com/css/montserrat');
+   @import url('http://fonts.cdnfonts.com/css/montserrat'),url('https://fonts.googleapis.com/css?family=Ubuntu');
 .masthead {
   position: relative;
   border-bottom: 1px solid $border-color;
@@ -90,9 +90,13 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
+  font-family:'Ubuntu';
+    padding-right: 3em;
+    font-weight:700;
+    color: #003B46;
+     // &--lg {
+     // padding-right: 2em;
+     // font-weight:700;
+  //}
 
-  &--lg {
-    padding-right: 2em;
-    font-weight: 700;
-  }
 }
