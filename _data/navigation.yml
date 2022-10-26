@@ -22,7 +22,7 @@ foo:
 main:
   - title: "Home"
     url: /docs/quick-start-guide/
-  - title: "Collections"
+  - title: "Posts"
     url: /about/
   - title: "About"
     url: /year-archive/
