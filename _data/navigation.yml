@@ -21,13 +21,13 @@ foo:
 # main links
 main:
   - title: "Home"
-    url: /docs/quick-start-guide/
+    url: /
   - title: "Posts"
-    url: /about/
+    url: /posts/
   - title: "About"
-    url: /year-archive/
+    url: /about/
   - title: "Feedback"
-    url: /collection-archive/
+    url: /feedback/
  # - title: "Terms &amp; Privacy Policy"
  #  url: /terms/
 
