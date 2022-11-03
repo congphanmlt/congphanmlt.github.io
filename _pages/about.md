@@ -24,7 +24,6 @@ gallery:
     image_path: /images/phat.png
     alt: "placeholder image 5"
     title: "Image 5 title caption"
-
 header:
   title: " "
   overlay_color: "#5e616c"
