@@ -1,36 +1,28 @@
 ---
 layout: single
-permalink: /about/
+permalink: /about
 hidden: true
 author_profile: false
-gallery:
-  - url: /images/phat.png
-    image_path: /images/phat.png
-    alt: "placeholder image 1"
-    title: "ngu"
-  - url: /images/phat.png
-    image_path: /images/phat.png
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
-  - url: /images/phat.png
-    image_path: /images/phat.png
-    alt: "placeholder image 3"
-    title: "Image 3 title caption"
-  - url: /images/phat.png
-    image_path: /images/phat.png
-    alt: "placeholder image 4"
-    title: "Image 4 title caption"
-  - url: /images/phat.png
-    image_path: /images/phat.png
-    alt: "placeholder image 5"
-    title: "Image 5 title caption"
+
 header:
-  title: " "
-  overlay_color: "#5e616c"
-  overlay_image: /images/web-banner-4.png
-  excerpt: >
+  color: "#5e616c"
+  image: /images/web-banner-4.png
+  image_description: "NMLT"
+  caption: ""
 
+feature_row:
+ - image_path: /images/thuan.png
+   title: "Anh Thuận đẹp trai"
+
+ - image_path: /images/hai.png
+   title: "Anh Hải pro vip"
+
+ - image_path: /images/phat.png
+   title: "Anh Phát ngu vl"
+    
+     
 ---
+<h1>Lý do thành lập</h1>
+{% include feature_row %}
 
-{% include gallery caption="" %}
 
