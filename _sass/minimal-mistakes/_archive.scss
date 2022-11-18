@@ -1,7 +1,7 @@
 /* ==========================================================================
    ARCHIVE
    ========================================================================== */
-
+   @import url('http://fonts.cdnfonts.com/css/montserrat'),url('https://fonts.googleapis.com/css?family=Ubuntu');
 .archive {
   margin-top: 1em;
   margin-bottom: 2em;
@@ -45,7 +45,7 @@
 
 .archive__item-title {
   margin-bottom: 0.25em;
-  font-family: $sans-serif-narrow;
+  font-family: 'Ubuntu',sans-serif;
   line-height: initial;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -91,7 +91,8 @@
   overflow: hidden;
 
   img {
-    width: 100%;
+    width: 234px;
+    height: 234px;
   }
 }
 
@@ -460,4 +461,8 @@
 	.feature__wrapper {
 		display: inline-block;
 	}
+}
+.btn--a
+{
+  background: rgba(0, 59, 70, 0.2);
 }

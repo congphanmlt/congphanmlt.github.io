@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 permalink: /about
 hidden: true
 author_profile: false
@@ -12,17 +12,45 @@ header:
 
 feature_row:
  - image_path: /images/thuan.png
-   title: "Anh Thuận đẹp trai"
-
- - image_path: /images/hai.png
-   title: "Anh Hải pro vip"
-
+   alt: "thuan"
+   title: "Tống Võ Anh Thuận"
+   excerpt: thu4n
+   url: "https://github.com/K1m3r4-vn"
+   btn_label: "K1m3r4-vn"
+   btn_class: "btn--a"
+ - image_path: /images/logoCPNMLT(2).png
+ - image_path: /images/thien.png
+   alt: "Thien"
+   title: " Võ Tín Thiện"
+   excerpt: K1m3r4-vn
+   url: "https://github.com/K1m3r4-vn"
+   btn_label: "K1m3r4-vn"
+   btn_class: "btn--a"
  - image_path: /images/phat.png
-   title: "Anh Phát ngu vl"
-    
+   alt: "Thien"
+   title: "Nguyễn Lê Tiến Phát" 
+   excerpt: howtodie123
+   url: "https://github.com/K1m3r4-vn"
+   btn_label: "K1m3r4-vn"
+   btn_class: "btn--a"
+ - image_path: /images/hai.png
+   alt: "Thien"
+   title: "Trần Công Hải"
+   excerpt: Ahamonuser
+   url: "https://github.com/K1m3r4-vn"
+   btn_label: "K1m3r4-vn"
+   btn_class: "btn--a"
+ - image_path: /images/nhat.png
+   alt: "Thien"
+   title: "Nguyễn Minh Nhật"
+   excerpt: NhatGit
+   url: "https://github.com/K1m3r4-vn"
+   btn_label: "K1m3r4-vn"
+   btn_class: "btn--a"
      
 ---
 <h1>Lý do thành lập</h1>
-{% include feature_row %}
+
+{% include feature_row  %}
 
 
