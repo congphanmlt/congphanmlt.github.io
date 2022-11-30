@@ -3,14 +3,11 @@ layout: splash
 permalink: /about/
 hidden: true
 author_profile: false
-
+title: "Đôi lời giới thiệu"
 classes: git_icon
 header:
   color: "#5e616c"
-  image: /images/web-banner-4.png
-  image_description: "NMLT"
-  caption: ""
-     
+  overlay_image: /images/testingBanner.png     
 ---
 <style>
 td, th {
