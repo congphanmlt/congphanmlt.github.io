@@ -1,5 +1,8 @@
 ---
 title: "05.Các cấu trúc điều khiển"
+author_profile: false
+toc: true
+toc_sticky: true
 ---
 Có 3 loại cấu trúc điều khiển:
 - Cấu trúc tuần tự (Sequence structures) : là cách tổ chức các lệnh thành từng khối.

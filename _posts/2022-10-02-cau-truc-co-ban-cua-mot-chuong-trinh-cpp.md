@@ -1,9 +1,8 @@
 ---
 title: "02.Cấu trúc cơ bản của một chương trình C++"
-categories:
-  - NMLT
-tags:
-  - gioithieu
+author_profile: false
+toc: true
+toc_sticky: true
 ---
 Để có thể hiểu và tự tay viết chương trình C++ điều đầu tiên cần phải biết đó là cấu trúc cơ bản của một chương trình.
 Một chương trình C++ cơ bản sẽ gồm 3 thành phần sau:

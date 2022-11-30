@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: single
 permalink: /feedback/
 author_profile: false
 ---
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
     .g-form-container {    
    position: relative; 
@@ -19,8 +21,15 @@ author_profile: false
    width: 100%; 
    height: 100%; 
    border: none; 
-   } 
+   }
+   article::after{
+    content: none;
+   }
+   main::after{
+    content: none;
+   }
 </style>
+</head>
 <div style="align-self: center;">
     <div class="g-form-container"><iframe class="responsive-iframe" src="https://docs.google.com/forms/d/e/1FAIpQLSeG6XcSp339l2hY7e9H-UorQVRHhpbJpi0xcNhOtNV2Y8PczA/viewform?embedded=true"></iframe></div>
 

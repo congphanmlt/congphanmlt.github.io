@@ -1,5 +1,8 @@
 ---
 title: "04.Các kiểu dữ liệu cơ sở và phép toán trong C++"
+author_profile: false
+toc: true
+toc_sticky: true
 ---
 ## 1. Kiểu số nguyên
 - Có dấu: là những số nguyên dương, số nguyên âm và số 0.

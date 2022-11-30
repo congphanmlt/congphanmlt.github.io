@@ -1,9 +1,8 @@
 ---
 title: "01.Giới thiệu tổng quan về C++ và công cụ"
-categories:
-  - NMLT
-tags:
-  - gioithieu
+author_profile: false
+toc: true
+toc_sticky: true
 ---
 - Được phát triển bởi Bjarne Stroustrup năm 1979 tại Bell Labs.
 - Là một phiên bản mở rộng của ngôn ngữ C, kết hợp tất cả các tính năng đã có của C.

@@ -1,10 +1,8 @@
 ---
 title: "03.Thuật toán và lưu đồ thuật toán"
-categories:
-  - NMLT
-tags:
-  - thuattoan
-  - algorithm
+author_profile: false
+toc: true
+toc_sticky: true
 ---
 ## 1. Khái niệm thuật toán
 Là tập hợp hữu hạn các chỉ thị được định nghĩa rõ ràng để giải quyết một bài toán cụ thể.
