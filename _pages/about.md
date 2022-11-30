@@ -1,38 +1,9 @@
 ---
-layout: single
+layout: splash
 permalink: /about/
 hidden: true
 author_profile: false
-<<<<<<< Updated upstream
 
-
-gallery:
-  - url: /images/phat.png
-    image_path: /images/phat.png
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: /images/phat.png
-    image_path: /images/phat.png
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
-  - url: /images/phat.png
-    image_path: /images/phat.png
-    alt: "placeholder image 3"
-    title: "Image 3 title caption"
-  - url: /images/phat.png
-    image_path: /images/phat.png
-    alt: "placeholder image 4"
-    title: "Image 4 title caption"
-  - url: /images/phat.png
-    image_path: /images/phat.png
-    alt: "placeholder image 5"
-    title: "Image 5 title caption"
-  - url: /images/phat.png
-    image_path: /images/phat.png
-    alt: "placeholder image 5"
-    title: "Image 5 title caption"
----
-=======
 classes: git_icon
 header:
   color: "#5e616c"
@@ -57,9 +28,6 @@ Ngoài ra, đây còn là đồ án cho môn Kỹ năng nghề nghiệp mà nhó
 |<center>Tống Võ Anh Thuận </center> |<center>Võ Tín Thiện</center>|<center>Trần Công Hải</center>|<center>Nguyễn Lê Tiến Phát</center>|<center>Nguyễn Minh Nhật</center>|
 |--------|---------|-------|-------|------|
 |![thuan](/images/thuan.png)|![thien](/images/thien.png)|![hai](/images/hai.png)|![phat](/images/phat4.png)|![nhat](/images/nhat.png)|
-|<center><a href="" style="text-decoration:none"><i class="fab fa-github fa-lg"></i>thu4n</a></center>|<center><a href="" style="text-decoration:none"><i class="fab fa-github fa-lg"></i>K1m3r4-vn</a></center>|<center><a href="" style="text-decoration:none"><i class="fab fa-github fa-lg"></i>Ahamonuser</a></center>|<center><a href="" style="text-decoration:none"><i class="fab fa-github fa-lg"></i>howtodie123</a></center>|<center><a href="" style="text-decoration:none"><i class="fab fa-github fa-lg"></i>NhatGit</a></center>|
+|<center><a href="" style="text-decoration:none"><i class="fab fa-github fa-lg"></i>  thu4n</a></center>|<center><a href="" style="text-decoration:none"><i class="fab fa-github fa-lg"></i>  K1m3r4-vn</a></center>|<center><a href="" style="text-decoration:none"><i class="fab fa-github fa-lg"></i>  Ahamonuser</a></center>|<center><a href="" style="text-decoration:none"><i class="fab fa-github fa-lg"></i>  howtodie123</a></center>|<center><a href="" style="text-decoration:none"><i class="fab fa-github fa-lg"></i>  NhatGit</a></center>|
 
->>>>>>> Stashed changes
-
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
