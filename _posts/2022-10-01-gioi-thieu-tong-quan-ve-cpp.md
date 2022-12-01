@@ -5,7 +5,7 @@ toc: false
 toc_sticky: false
 excerpt: "Giới thiệu một cách tổng quát về ngôn ngữ lập trình C++ và các công cụ cần có khi sử dụng nó."
 header:
-  overlay_image: ../images/imageOverlay.png
+  overlay_image: ../images/postOverlay.png
   overlay_filter: 0.3
 ---
 - Được phát triển bởi Bjarne Stroustrup năm 1979 tại Bell Labs.

@@ -5,7 +5,7 @@ toc: true
 toc_sticky: true
 excerpt: "Giới thiệu về các kiểu dữ liệu cơ sở như char,int,float,… và một số phép toán thông dụng trong C++."
 header:
-  overlay_image: ../images/imageOverlay.png
+  overlay_image: ../images/postOverlay.png
   overlay_filter: 0.3
 ---
 ## 1. Kiểu số nguyên

@@ -5,7 +5,7 @@ toc: true
 toc_sticky: true
 excerpt: "Nói qua về cách sử dụng hàm, truyền tham số cho hàm và giới thiệu về khái niệm đệ quy trong C++."
 header:
-  overlay_image: ../images/imageOverlay.png
+  overlay_image: ../images/postOverlay.png
   overlay_filter: 0.3
 ---
 ## 1. Khái niệm

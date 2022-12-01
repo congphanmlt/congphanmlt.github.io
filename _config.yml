@@ -14,7 +14,7 @@ title                    : "Công phá NMLT"
 title_separator          : "-"
 subtitle                 : ""
 name                     : &name "Công phá NMLT" # &name is a YAML anchor which can be *referenced later
-description              : &description "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
+description              : &description "Trang web học Nhập môn lập trình cho người mới bắt đầu"
 url                      : https://congphanmlt.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "congphanmlt/congphanmlt.github.io"

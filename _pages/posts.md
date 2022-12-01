@@ -10,7 +10,7 @@ author_profile: false
   <section id="{{ year.name }}" class="taxonomy__section">
     <h2 class="archive__subtitle">{{ year.name }}</h2>
     <div class="entries-{{ entries_layout }}">
-      {% for post in year.items %}
+      {% for post in year.items reversed %}
         {% include archive-single.html type=entries_layout %}
       {% endfor %}
     </div>

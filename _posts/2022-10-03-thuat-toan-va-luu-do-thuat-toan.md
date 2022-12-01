@@ -5,7 +5,7 @@ toc: true
 toc_sticky: true
 excerpt: "Giới thiệu về khái niệm thuật toán và cách minh họa chúng thông qua lưu đồ thuật toán."
 header:
-  overlay_image: ../images/imageOverlay.png
+  overlay_image: ../images/postOverlay.png
   overlay_filter: 0.3
 ---
 ## 1. Khái niệm thuật toán
@@ -59,10 +59,10 @@ VD: tính diện tích và chu vi hình tròn với bán kính r nhập từ bà
 
 ![bảng các ký hiệu](https://suachuatulanh.edu.vn/wp-content/uploads/ky-hieu-luu-do-thuat-toan-1024x867-1.png)
 
-VD: tính diện tích và chu vi hình tròn với bán kính r nhập từ bàn phim
+VD: tính diện tích và chu vi hình tròn với bán kính r nhập từ bàn phím
+
 ![lưu đồ thuật toán](https://giadungnhaviet.com/wp-content/uploads/2019/08/giai-thuat-tinh-chu-vi-dien-tich.png)
 
-hfghfg
 - Dùng mã giả
   + Ngôn ngữ tựa ngôn ngữ lập trình: dùng cấu trúc chuẩn hóa, các ký hiệu toán học, biến, hàm.
   + Ưu điểm: đỡ cồng kềnh hơn lưu đồ khối.

@@ -5,7 +5,7 @@ toc: true
 toc_sticky: true
 excerpt: "Một chương trình trong C++ sẽ có cấu trúc như thế nào?"
 header:
-  overlay_image: ../images/imageOverlay.png
+  overlay_image: ../images/postOverlay.png
   overlay_filter: 0.3
 ---
 Để có thể hiểu và tự tay viết chương trình C++ điều đầu tiên cần phải biết đó là cấu trúc cơ bản của một chương trình.

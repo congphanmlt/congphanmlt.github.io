@@ -5,7 +5,7 @@ toc: true
 toc_sticky: true
 excerpt: "Giải thích về các loại cấu trúc điều khiển có trong một chương trình C++"
 header:
-  overlay_image: ../images/imageOverlay.png
+  overlay_image: ../images/postOverlay.png
   overlay_filter: 0.3
 ---
 Có 3 loại cấu trúc điều khiển:
