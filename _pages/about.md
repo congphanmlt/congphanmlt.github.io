@@ -6,7 +6,7 @@ author_profile: false
 title: "About"
 classes: git_icon
 header:
-  image: "../images/realAboutBanner2.png"
+  image: "https://raw.githubusercontent.com/congphanmlt/congphanmlt.github.io/main/images/realaboutBanner2.png"
   caption: "BG Photo credit: [**THIENAN158**](https://www.facebook.com/thienan158)"
   
 ---
