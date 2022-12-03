@@ -18,20 +18,19 @@ td, th {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 15vw;
+  width: 100px;
   height: auto;
   object-fit: scale-down;
 }
 .4img{
   display: flex;
 }
+table{
+  overflow-x:auto;
+}
 @media only screen and (max-width: 640px) {
-	th {
-		font-size: 6.7px;
-	}
-  .gitName{
-    font-size: 6.7px;
-  }
+	
+ 
 }
 </style>
 <h1>Giới thiệu về website</h1>
@@ -41,8 +40,14 @@ Ngoài ra, đây còn là đồ án cho môn Kỹ năng nghề nghiệp mà nhó
 
 <h1>Thành viên nhóm</h1>
 
-|<center>Tống Võ Anh Thuận </center> |<center>Võ Tín Thiện</center>|<center>Trần Công Hải</center>|<center>Nguyễn Lê Tiến Phát</center>|<center>Nguyễn Minh Nhật</center>|
-|--------|---------|-------|-------|------|
-|<img src ="/images/thuan1.png" class="center">|<img src ="/images/thien1.png" class="center">|<img src ="/images/hai1.png" class="center">|<img src ="/images/phat1.png" class="center">|<img src ="/images/nhat1.png" class="center">|
-|<center><a href="https://github.com/thu4n" style="text-decoration:none" class="gitName"><i class="fab fa-github fa-lg"></i> thu4n</a></center>|<center><a href="https://github.com/K1m3r4-vn" style="text-decoration:none" class="gitName"><i class="fab fa-github fa-lg"></i> K1m3r4-vn</a></center>|<center><a href="https://github.com/Ahamonuser" style="text-decoration:none" class="gitName"><i class="fab fa-github fa-lg"></i> Ahamonuser</a></center>|<center><a href="https://github.com/howtodie123" style="text-decoration:none" class="gitName"><i class="fab fa-github fa-lg"></i> howtodie123</a></center>|<center><a href="https://github.com/NhatGit" style="text-decoration:none" class="gitName"><i class="fab fa-github fa-lg"></i> NhatGit</a></center>|
+
+|<img src ="/images/thuan1.png" class="center">|<center>Tống Võ Anh Thuận </center> <br> <center><a href="https://github.com/thu4n" style="text-decoration:none" class="gitName"><i class="fab fa-github fa-lg"></i> thu4n</a></center>|
+|<img src ="/images/thien1.png" class="center">|<center>Võ Tín Thiện</center><br><center><a href="https://github.com/K1m3r4-vn" style="text-decoration:none" class="gitName"><i class="fab fa-github fa-lg"></i> K1m3r4-vn</a></center>|
+|<img src ="/images/hai1.png" class="center">|<center>Trần Công Hải</center><br><center><a href="https://github.com/Ahamonuser" style="text-decoration:none" class="gitName"><i class="fab fa-github fa-lg"></i> Ahamonuser</a></center>|
+|<img src ="/images/phat1.png" class="center">|<center>Nguyễn Lê Tiến Phát</center><br><center><a href="https://github.com/howtodie123" style="text-decoration:none" class="gitName"><i class="fab fa-github fa-lg"></i> howtodie123</a></center>|
+|<img src ="/images/nhat1.png" class="center">|<center>Nguyễn Minh Nhật</center><br><center><a href="https://github.com/NhatGit" style="text-decoration:none" class="gitName"><i class="fab fa-github fa-lg"></i> NhatGit</a></center>|
+
+
+
+
 
