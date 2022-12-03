@@ -11,27 +11,21 @@ header:
   
 ---
 <style>
-td, th {
-   border: none!important;
-}
 .center {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 100px;
   height: auto;
+  width: 100px;
   object-fit: scale-down;
 }
-.4img{
-  display: flex;
+
+@media only screen and (max-width: 768px) {
 }
-table{
-  overflow-x:auto;
-}
-@media only screen and (max-width: 640px) {
-	
- 
-}
+</style>
+<style type="text/css">
+.tg .tg-nrix{text-align:center;vertical-align:middle}
+.tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <h1>Giới thiệu về website</h1>
 Công phá NMLT là một dự án nho nhỏ được thực hiện bởi nhóm sinh viên K16 UIT với mong muốn giúp đỡ các bạn tân sinh viên K17 và cả các khóa sau này có một nơi để ôn tập và tổng hợp lại những kiến thức cơ bản về ngôn ngữ **C++**. Qua đó, cùng nhau qua môn **Nhập môn lập trình (IT001)** của UIT và có nền tảng vững chắc để tiếp tục học các môn ở học kỳ sau.
@@ -41,11 +35,11 @@ Ngoài ra, đây còn là đồ án cho môn Kỹ năng nghề nghiệp mà nhó
 <h1>Thành viên nhóm</h1>
 
 
-|<img src ="/images/thuan1.png" class="center">|<center>Tống Võ Anh Thuận </center> <br> <center><a href="https://github.com/thu4n" style="text-decoration:none" class="gitName"><i class="fab fa-github fa-lg"></i> thu4n</a></center>|
-|<img src ="/images/thien1.png" class="center">|<center>Võ Tín Thiện</center><br><center><a href="https://github.com/K1m3r4-vn" style="text-decoration:none" class="gitName"><i class="fab fa-github fa-lg"></i> K1m3r4-vn</a></center>|
-|<img src ="/images/hai1.png" class="center">|<center>Trần Công Hải</center><br><center><a href="https://github.com/Ahamonuser" style="text-decoration:none" class="gitName"><i class="fab fa-github fa-lg"></i> Ahamonuser</a></center>|
-|<img src ="/images/phat1.png" class="center">|<center>Nguyễn Lê Tiến Phát</center><br><center><a href="https://github.com/howtodie123" style="text-decoration:none" class="gitName"><i class="fab fa-github fa-lg"></i> howtodie123</a></center>|
-|<img src ="/images/nhat1.png" class="center">|<center>Nguyễn Minh Nhật</center><br><center><a href="https://github.com/NhatGit" style="text-decoration:none" class="gitName"><i class="fab fa-github fa-lg"></i> NhatGit</a></center>|
+|<img src ="/images/thuan1.png" class="center">|<center>Tống Võ Anh Thuận </center> |<center><a href="https://github.com/thu4n" style="text-decoration:none" class="gitName"><i class="fab fa-github fa-lg"></i> thu4n</a></center>|
+|<img src ="/images/thien1.png" class="center">|<center>Võ Tín Thiện</center>|<center><a href="https://github.com/K1m3r4-vn" style="text-decoration:none" class="gitName"><i class="fab fa-github fa-lg"></i> K1m3r4-vn</a></center>| 
+|<img src ="/images/hai1.png" class="center">|<center>Trần Công Hải</center>|<center><a href="https://github.com/Ahamonuser" style="text-decoration:none" class="gitName"><i class="fab fa-github fa-lg"></i> Ahamonuser</a></center>|
+|<img src ="/images/phat1.png" class="center">|<center>Nguyễn Lê Tiến Phát</center>|<center><a href="https://github.com/howtodie123" style="text-decoration:none" class="gitName"><i class="fab fa-github fa-lg"></i> howtodie123</a></center>|
+|<img src ="/images/nhat1.png" class="center">|<center>Nguyễn Minh Nhật</center>|<center><a href="https://github.com/NhatGit" style="text-decoration:none" class="gitName"><i class="fab fa-github fa-lg"></i> NhatGit</a></center>|
 
 
 
