@@ -32,9 +32,6 @@ td, th {
   a{
     font-size: 6px;
   }
-  img{
-    width: 53px;
-  }
   .center {
   width: 60px;
 }
