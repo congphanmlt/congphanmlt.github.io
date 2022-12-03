@@ -14,6 +14,31 @@ header:
 td, th {
    border: none!important;
 }
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15vw;
+  height: auto;
+  object-fit: scale-down;
+}
+.4img{
+  display: flex;
+}
+@media only screen and (max-width: 640px) {
+	th {
+		font-size: 6.7px;
+	}
+  a{
+    font-size: 6px;
+  }
+  img{
+    width: 53px;
+  }
+  .center {
+  width: 60px;
+}
+}
 </style>
 <h1>Giới thiệu về website</h1>
 Công phá NMLT là một dự án nho nhỏ được thực hiện bởi nhóm sinh viên K16 UIT với mong muốn giúp đỡ các bạn tân sinh viên K17 và cả các khóa sau này có một nơi để ôn tập và tổng hợp lại những kiến thức cơ bản về ngôn ngữ **C++**. Qua đó, cùng nhau qua môn **Nhập môn lập trình (IT001)** của UIT và có nền tảng vững chắc để tiếp tục học các môn ở học kỳ sau.
@@ -24,6 +49,6 @@ Ngoài ra, đây còn là đồ án cho môn Kỹ năng nghề nghiệp mà nhó
 
 |<center>Tống Võ Anh Thuận </center> |<center>Võ Tín Thiện</center>|<center>Trần Công Hải</center>|<center>Nguyễn Lê Tiến Phát</center>|<center>Nguyễn Minh Nhật</center>|
 |--------|---------|-------|-------|------|
-|![thuan](/images/thuan.png)|![thien](/images/thien.png)|![hai](/images/hai.png)|![phat](/images/phat4.png)|![nhat](/images/nhat.png)|
+|<img src ="/images/thuan1.png" class="center">|<img src ="/images/thien1.png" class="center">|<img src ="/images/hai1.png" class="center">|<img src ="/images/phat1.png" class="center">|<img src ="/images/nhat1.png" class="center">|
 |<center><a href="https://github.com/thu4n" style="text-decoration:none"><i class="fab fa-github fa-lg"></i> thu4n</a></center>|<center><a href="https://github.com/K1m3r4-vn" style="text-decoration:none"><i class="fab fa-github fa-lg"></i> K1m3r4-vn</a></center>|<center><a href="https://github.com/Ahamonuser" style="text-decoration:none"><i class="fab fa-github fa-lg"></i> Ahamonuser</a></center>|<center><a href="https://github.com/howtodie123" style="text-decoration:none"><i class="fab fa-github fa-lg"></i> howtodie123</a></center>|<center><a href="https://github.com/NhatGit" style="text-decoration:none"><i class="fab fa-github fa-lg"></i> NhatGit</a></center>|
 
