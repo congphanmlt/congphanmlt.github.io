@@ -29,12 +29,9 @@ td, th {
 	th {
 		font-size: 6.7px;
 	}
-  a{
-    font-size: 6px;
+  .gitName{
+    font-size: 6.7px;
   }
-  .center {
-  width: 60px;
-}
 }
 </style>
 <h1>Giới thiệu về website</h1>
@@ -47,5 +44,5 @@ Ngoài ra, đây còn là đồ án cho môn Kỹ năng nghề nghiệp mà nhó
 |<center>Tống Võ Anh Thuận </center> |<center>Võ Tín Thiện</center>|<center>Trần Công Hải</center>|<center>Nguyễn Lê Tiến Phát</center>|<center>Nguyễn Minh Nhật</center>|
 |--------|---------|-------|-------|------|
 |<img src ="/images/thuan1.png" class="center">|<img src ="/images/thien1.png" class="center">|<img src ="/images/hai1.png" class="center">|<img src ="/images/phat1.png" class="center">|<img src ="/images/nhat1.png" class="center">|
-|<center><a href="https://github.com/thu4n" style="text-decoration:none"><i class="fab fa-github fa-lg"></i> thu4n</a></center>|<center><a href="https://github.com/K1m3r4-vn" style="text-decoration:none"><i class="fab fa-github fa-lg"></i> K1m3r4-vn</a></center>|<center><a href="https://github.com/Ahamonuser" style="text-decoration:none"><i class="fab fa-github fa-lg"></i> Ahamonuser</a></center>|<center><a href="https://github.com/howtodie123" style="text-decoration:none"><i class="fab fa-github fa-lg"></i> howtodie123</a></center>|<center><a href="https://github.com/NhatGit" style="text-decoration:none"><i class="fab fa-github fa-lg"></i> NhatGit</a></center>|
+|<center><a href="https://github.com/thu4n" style="text-decoration:none" class="gitName"><i class="fab fa-github fa-lg"></i> thu4n</a></center>|<center><a href="https://github.com/K1m3r4-vn" style="text-decoration:none" class="gitName"><i class="fab fa-github fa-lg"></i> K1m3r4-vn</a></center>|<center><a href="https://github.com/Ahamonuser" style="text-decoration:none" class="gitName"><i class="fab fa-github fa-lg"></i> Ahamonuser</a></center>|<center><a href="https://github.com/howtodie123" style="text-decoration:none" class="gitName"><i class="fab fa-github fa-lg"></i> howtodie123</a></center>|<center><a href="https://github.com/NhatGit" style="text-decoration:none" class="gitName"><i class="fab fa-github fa-lg"></i> NhatGit</a></center>|
 
