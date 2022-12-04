@@ -14,21 +14,21 @@ excerpt: >
 feature_row:
   - image_path: /images/thumbnail4.png
     alt: "04."
-    title: "04.Các kiểu dữ liệu cơ sở và phép toán trong C++"
-    excerpt: "Giới thiệu về các kiểu dữ liệu cơ sở như char,int,float,… và một số phép toán thông dụng trong C++."
+    title: "04. Các kiểu dữ liệu cơ sở và phép toán trong C++"
+    excerpt: "Giới thiệu về các kiểu dữ liệu cơ sở như char, int, float,… và một số phép toán thông dụng trong C++."
     url: "/cac-kieu-du-lieu-va-phep-toan/"
     btn_class: "btn--primary"
     btn_label: "Bắt đầu"
   - image_path: /images/thumbnail5.png
     alt: "05."
-    title: "05.Các cấu trúc điều khiển trong C++"
+    title: "05. Các cấu trúc điều khiển trong C++"
     excerpt: "Giải thích về các loại cấu trúc điều khiển (tuần tự, vòng lặp...) thường có trong một chương trình C++"
     url: "/cac-cau-truc-dieu-khien/"
     btn_class: "btn--primary"
     btn_label: "Bắt đầu"
   - image_path: /images/thumbnail6.png
     alt: "06."
-    title: "06.Hàm, tham số hàm và đệ quy"
+    title: "06. Hàm, tham số hàm và đệ quy"
     excerpt: "Nói qua về cách sử dụng hàm, truyền tham số cho hàm và giới thiệu về khái niệm đệ quy trong C++."
     url: "/ham-tham-so-ham-va-de-quy/"
     btn_class: "btn--primary"

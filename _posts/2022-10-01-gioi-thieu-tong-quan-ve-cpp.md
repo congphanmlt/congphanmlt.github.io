@@ -24,7 +24,7 @@ header:
   + Cơ sở dữ liệu: Mysql
   + Ứng dụng đồ họa: Image Ready, Adobe Premiere, Photoshop, Illustrator,...
 
-- Một cộng cụ để lập trình C++
+- Một công cụ để lập trình C++
   + Visual Studio
   + Codeblock
   + C++ online (yêu cầu có kết nối mạng)

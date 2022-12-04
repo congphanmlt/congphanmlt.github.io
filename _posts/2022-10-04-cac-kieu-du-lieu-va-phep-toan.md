@@ -3,7 +3,7 @@ title: "04.Các kiểu dữ liệu cơ sở và phép toán trong C++"
 author_profile: true
 toc: true
 toc_sticky: true
-excerpt: "Giới thiệu về các kiểu dữ liệu cơ sở như char,int,float,… và một số phép toán thông dụng trong C++."
+excerpt: "Giới thiệu về các kiểu dữ liệu cơ sở như char, int, float,… và một số phép toán thông dụng trong C++."
 header:
   overlay_image: ../images/postOverlay.png
   overlay_filter: 0.3
@@ -39,6 +39,7 @@ Số không dấu khi khai báo sử dụng từ khóa unsigned.
 | `long double`           | 8, 12 hoặc 16 | 3.36 x 10^(-4932) đến 1.18 x 10^(4932)     |
 
 Ta có thể sử dụng hàm `setprecision()` thuộc thư viện `<iomanip>` để xác định số chữ số ở phần thập phân.
+
 VD:
 ```
 float x = 6.3333;
@@ -80,6 +81,7 @@ Output:
 - Miền giá trị: 256 ký tự trong bảng mã ASCII.
 - Cũng là kiểu số nguyên do lưu mã ASCII của 1 ký tự (là 1 số nguyên). Vì vậy khi gán giá trị cho biến kiểu ký tự, có thể dùng số nguyên.
 - Có thể dùng `static_cast<int16_t>(<tên biến>)` để xuất mã ASCII của ký tự lưu trong biến.
+
 VD:
 ```
 char x = 'A', y = 65;
@@ -96,6 +98,7 @@ Lưu ý: ký tự số nguyên không giống với mã ASCII số nguyên.
 
       <kiểu dữ liệu> <tên biến>; hoặc
       <kiểu dữ liệu> <tên biến 1>, <tên biến 2>,..., <tên biến n>;
+
 VD:
 ```
 int a;
@@ -135,6 +138,7 @@ const float Pi = 3.14;
         <tên biến> = <biểu thức>;
 
 Toán tử gán có thể thực hiện liên tiếp
+
 VD:
 ```
 int a, b, c;
@@ -245,6 +249,7 @@ VD
 - Toán tử quan hệ
 So sánh 2 biểu thức với nhau và cho ra kết quả 0 (hay false nếu sai) hoặc 1 (hay true nếu đúng).
 Các toán tử: `==` , `>`, `<`, `>=`, `<=`, `!=`.
+
 VD:
 ```
 int x = 3, y = 9, z = 9;

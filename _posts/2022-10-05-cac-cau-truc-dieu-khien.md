@@ -27,6 +27,7 @@ Cú pháp:
       <lệnh hoặc khối lệnh>;
 
 Nếu điều kiện là 1 biến luận lý hoặc biểu thức mang giá trị `true`, lệnh hoặc khối lệnh sẽ được thực thi, ngược lại thì không có gì xảy ra cả.
+
 VD:
 ```
 int x = 9;
@@ -203,6 +204,7 @@ Cú pháp:
 
     while (<điều kiện vòng lặp>)
       <lệnh hoặc khối lệnh>
+
 VD:
 ```
 int i = 0;
@@ -222,7 +224,7 @@ Cú pháp:
 
     do <lệnh hoặc khối lệnh>
     while (<điều kiện vòng lặp>);
-
+    
 VD:
 ```
 int i = 0;
@@ -239,6 +241,7 @@ Output:
 ### 2.4 Câu lệnh break, continue
 Lệnh break làm kết thúc cấu trúc lặp.
 Lệnh continue bỏ qua lần lặp hiện tại.
+
 VD:
 ```
 int i = 0;

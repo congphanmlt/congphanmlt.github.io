@@ -139,6 +139,7 @@ Output:
 
 ### 4.1 Đệ quy tuyến tính:
 Hàm đệ quy tuyến tính là hàm gọi lại chính nó duy nhất 1 lần.
+
 VD: viết hàm tính tích các số nguyên dương từ 1 đến n với n là đối số được tryền vào hàm.
 ```
 int Tinh_Tich (int x)
@@ -156,6 +157,7 @@ Giả sử ta gọi hàm `Tinh_Tich` với tham số truyền vào là x = 3.
 
 ### 4.2 Đệ quy nhị phân
 Hàm đệ quy nhị phân là hàm gọi lại chính nó 2 lần.
+
 VD: viết hàm xuất ra số thứ n trong dãy Fibonacci với n là đối số truyền vào hàm.
 ```
 int fibonacci(int x) 
