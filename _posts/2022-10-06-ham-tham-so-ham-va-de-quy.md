@@ -185,4 +185,4 @@ Giả sử ta gọi hàm `fibonacci` với tham số truyền vào là x = 3.
 - Khi đó hàm fibonacci gốc sẽ trả về giá trị là 1 + 1 = 2 (2 chính là con số thứ 3 trong dãy fibonacci).
 
 ### 4.3 Đệ quy gián tiếp
-Là hàm không gọi lại chính nó mà gọi thông qua 1 hoặc nhiều hàm khác
+Là hàm không gọi lại chính nó mà gọi thông qua 1 hoặc nhiều hàm khác.

@@ -16,7 +16,7 @@ Một chương trình C++ cơ bản sẽ gồm 3 thành phần sau:
 
 ## 1. Câu lệnh và biểu thức
 - Các câu lệnh và biểu thức là thành phần nhỏ nhất để cấu thành lên một chương trình.
-- Một chương trình có thể gồm rất nhiều câu lệnh nhưng cũng có thể không có câu lệnh nào 
+- Một chương trình có thể gồm rất nhiều câu lệnh nhưng cũng có thể không có câu lệnh nào.
 - Mỗi một câu lệnh sẽ yêu cầu chương trình thực hiện một nhiệm vụ nhất định.
 - Câu lệnh phải kết thúc bằng dấu chấm phẩy `;`.
 
@@ -43,7 +43,7 @@ int main()
 
 }
 ```
-Mặc dù không một câu lệnh, không có thư viện, chương trình vẫn chạy bình thường
+Mặc dù không một câu lệnh, không có thư viện, chương trình vẫn chạy bình thường.
 Trong đó:
 - `main` là tên của hàm.
 - Các câu lệnh sẽ nằm trong dấu ngoặc nhọn `{ }`. Khi chương trình chạy thì những câu lệnh sẽ được thực hiện **tuần tự từ trên xuống dưới**.
